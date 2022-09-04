@@ -1,0 +1,3 @@
+[submodule "WellnessConversation-LanguageModel"]
+	path = WellnessConversation-LanguageModel
+	url = https://github.com/nawnoes/WellnessConversation-LanguageModel.git
