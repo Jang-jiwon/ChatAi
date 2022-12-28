@@ -16,3 +16,7 @@
 ## 훈련방식
 - 프리징하지않고 총 21 에포크를 훈련시킴
 - [훈련 결과](ChatAi/weights/README.md)
+
+
+## 결과
+- [ 챗봇 실행영상 ](https://drive.google.com/file/d/1JXRAEGrK6sQ0SzzaDDsoi_llCi5biYLW/view?usp=share_link)
