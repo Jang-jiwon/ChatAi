@@ -23,4 +23,4 @@
 - [ 챗봇 전체 실행영상 ](https://drive.google.com/file/d/1JXRAEGrK6sQ0SzzaDDsoi_llCi5biYLW/view?usp=share_link)
 
 ### 짧은 예시 영상 
-![예시영상](제출영상gif.gif)
+![예시영상](sample.gif)
