@@ -6,3 +6,4 @@
 
 
 - 사용모델 : [KoGPT2](https://github.com/nawnoes/WellnessConversation-LanguageModel)
+- 사용데이터 : [AI Hub 감성대화 말뭉치](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86)
